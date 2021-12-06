@@ -3396,7 +3396,7 @@ input, select, textarea {
 		margin-bottom: -3.25em;
 		max-height: 32em;
 		min-height: 22em;
-		position: relative;
+		position: absolute;
 		top: -3.25em;
 	}
 
