@@ -3423,7 +3423,7 @@ input, select, textarea {
 		}
 
 		#banner h1 {
-			font-size: 3.25em;
+			font-size: 4em;
 		}
 
 		#banner > .inner {
@@ -3620,6 +3620,35 @@ input, select, textarea {
 			background-color: transparent;
 			border-bottom: solid 1px rgba(212, 212, 255, 0.1);
 		}
+
+
+	#Container {
+		width: 100%;
+		height: 100%;
+		position: relative;
+		overflow: hidden;
+	}
+	
+	#Container video {
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		/* The following will size the video to fit the full container. Not necessary, just nice.*/
+		min-width: 100%;
+		min-height: 100%;
+		-webkit-transform: translate(-50%,-50%);
+		-moz-transform: translate(-50%,-50%);
+		-ms-transform: translate(-50%,-50%);
+		transform: translate(-50%,-50%);
+		z-index: 0;
+	}
+	
+	#Container div {
+		position: relative;
+		z-index: 1;
+	}
+
+
 
 /* Contact */
 
