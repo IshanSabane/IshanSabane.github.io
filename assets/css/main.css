@@ -3146,6 +3146,7 @@ input, select, textarea {
 
 		#banner h1 {
 			font-size: 4em;
+			align-items: center;
 		}
 
 		#banner > .inner {
@@ -3436,6 +3437,7 @@ input, select, textarea {
 	#footer { 
 		
 		margin-top: 1em;
+		align-items: center;
 	}
 
 		#footer .copyright li {
@@ -3647,7 +3649,7 @@ box-shadow: 0 1px 1px rgba(0,0,0,0.1),
 	hsla(0, 0%, 0%, 0.762) 94.1%,
 	hsla(0, 0%, 0%, 0.790) 100%
 	);
-	transform: scale(110%) translate3d(4px, -6px, -10px);
+	transform: scale(105%) translate3d(4px, -6px, -10px);
 	transition: transform calc(var(--d)) var(--e);
 	z-index: 5;
 	border-color: #242943;
