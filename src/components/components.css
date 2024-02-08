@@ -1,0 +1,164 @@
+
+.intro{
+
+display: flex;
+flex-direction: column;
+/* padding-top: 155px; */
+align-items: center;
+justify-content: center;
+margin-left: 15%;
+
+}
+
+#headline{
+
+font-family: 'Times New Roman', Times, serif;
+font-size: large;
+font-weight: bold;
+font-stretch: normal;
+text-align: justify;
+}
+
+
+.bg-navbar { 
+  background: #403D58;
+
+}
+
+.whitefont {
+
+    color: azure;
+}
+
+
+.customcard {
+    padding: 20px;
+    margin: 30px;
+    /* border: 1px solid; */
+    border-radius: 20px;
+    /* box-shadow: 1px 1px 5px 1px  black  ; */
+    /* border-style: solid; */
+    /* border-width: 1px; */
+    /* display: flex; */
+    /* flex-direction: column; */
+    box-shadow: 1px 0px 5px 0px black;
+    
+    width: 100%;
+    height: 400px;
+    align-items: center;
+    align-content: center;
+    /* zoom: 13%; */
+    /* border: 10px; */
+    background-color: rgb(255, 255, 255);
+}
+
+.customcard:hover {
+    transform: scale(1.05);
+    /* box-shadow: 0 13px 40px -5px hsla(240, 30.1%, 28%, 0.12), 0 8px 32px -8px hsla(0, 0%, 0%, 0.14), 0 -6px 32px -6px hsla(0, 0%, 0%, 0.02); */
+    /* margin-top: 92px; */
+    cursor: -moz-grab;
+    box-shadow: 0px 12px 30px 0px rgba(0, 0, 0, 0.2);
+    transition: all 1800ms cubic-bezier(0.19, 1, 0.22, 1);
+    
+  }
+
+
+.carousel {
+
+    color: black;
+    font-size: large;
+    background-color: white;
+
+}
+
+
+#introbackground {
+
+    /* background-color: rgb(248, 130, 11);
+     */
+     /* background-color: #FC7753; */
+     background-image: linear-gradient(0.25turn, #FC7753, #ebf8e1);
+    /* width: 100%; */
+    /* margin-left: 5%; */
+    /* margin-right: 5%; */
+    /* margin: 0;
+     */
+    /* width: fit-content; */
+    opacity: 1;
+    z-index: 10;
+    margin-left: -1%;
+    margin-right: -1%;
+  }
+
+
+#workbackground {
+  background-image: linear-gradient(0.25turn, #fafafa, #53a5fc);
+  opacity: 0.9;
+  z-index: 10;
+  margin-left: -1%;
+  margin-right: -1%;
+
+}
+
+#wxb {
+
+  background-color: blue (248, 130, 11);
+
+  opacity: 0.8;
+  /* z-index: 1; */
+  }
+
+
+
+.clogo {
+
+    height: 224px;
+    width: inherit;
+    align-items: center;
+    /* padding-top: 5px; */
+    /* padding-bottom: 5px; */
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+  }
+/* 
+.clogop {
+    height: 200px;
+    scale: 0.8;
+    width: inherit;
+    align-items: center;
+  } */
+
+#Projects {
+
+  background-clip: './space_travel.mp4';
+  /* background-color: #FC7753; */
+  /* background-image: linear-gradient(0.25turn, #fafafa, #53a5fc); */
+
+}
+
+
+
+.card-small { 
+
+  height: auto;
+  width: auto;
+  /* object-fit: fill; */
+}
+
+.background-video{
+
+  height: 1800px;
+  scale: 2;
+  /* width: 150%; */
+  /* aspect-ratio: unset; */
+  /* float: left; */
+  /* top: 0; */
+  /* padding: none; */
+  position: relative; /* optional depending on what you want to do in your app */
+  margin-top: -8000px;
+  /* margin-left: -500px; */
+  opacity: 5%;
+  z-index: -1;
+  
+  }

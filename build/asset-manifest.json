@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9dbea1b8.css",
+    "main.js": "/static/js/main.e11217f7.js",
+    "static/js/787.bbe01249.chunk.js": "/static/js/787.bbe01249.chunk.js",
+    "static/media/backgroundnetwork.mp4": "/static/media/backgroundnetwork.ff724a00dd03ac6999b0.mp4",
+    "static/media/philips.png": "/static/media/philips.20953e2fb04378262667.png",
+    "static/media/Database.png": "/static/media/Database.5ad207f6cd165422bde1.png",
+    "static/media/IC.png": "/static/media/IC.593a59665d9c9d99eb5c.png",
+    "static/media/RLTask.png": "/static/media/RLTask.5c79ec56b5481e594cec.png",
+    "static/media/ReadyPlayerMe-Avatar.png": "/static/media/ReadyPlayerMe-Avatar.0de288adc4dd69794f25.png",
+    "static/media/ReadyPlayerMe-Full.png": "/static/media/ReadyPlayerMe-Full.a5567e3e36bcf7442c83.png",
+    "static/media/3DG.png": "/static/media/3DG.a5b31c8b3456437391e9.png",
+    "static/media/MLG.png": "/static/media/MLG.b9528e61b4b2b10c98c4.png",
+    "static/media/NLP.png": "/static/media/NLP.e62f226f27b3a9d78529.png",
+    "static/media/prodapt.jpg": "/static/media/prodapt.d7023fc38d8653026ea7.jpg",
+    "static/media/snowflake.svg": "/static/media/snowflake.8bf71d4f3d30392508347236c0c0970e.svg",
+    "index.html": "/index.html",
+    "main.9dbea1b8.css.map": "/static/css/main.9dbea1b8.css.map",
+    "main.e11217f7.js.map": "/static/js/main.e11217f7.js.map",
+    "787.bbe01249.chunk.js.map": "/static/js/787.bbe01249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dbea1b8.css",
+    "static/js/main.e11217f7.js"
+  ]
+}
